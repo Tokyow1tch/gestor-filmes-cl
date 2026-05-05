@@ -1,15 +1,13 @@
-# gestor-filmes-cl
-Sistema em Python para gerenciar filmes com persistência em JSON.
- # 🎬 Gestor de Filmes (CLI)
+# 🎬 Gestor de Filmes (CLI)
 
-Sistema em Python para gerenciar filmes com persistência em JSON.
+Sistema em Python para gerenciamento de filmes com persistência em JSON.
 
 ## 🚀 Funcionalidades
-- Adicionar filmes com nome, gênero, nota e status
+- Adicionar filmes com nome, nota e status
 - Listar filmes
 - Editar filmes
 - Buscar filmes
-- Estatísticas (quantidade, média de notas)
+- Estatísticas (quantidade e média de notas)
 
 ## 💻 Tecnologias
 - Python
@@ -17,7 +15,7 @@ Sistema em Python para gerenciar filmes com persistência em JSON.
 
 ## ▶️ Como executar
 
-python gestor_filmes.py
+python filmes.py
 
 ## 👩‍💻 Autora
 Nicoly Ferreira Ricardo  
